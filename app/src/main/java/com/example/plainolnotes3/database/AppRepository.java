@@ -1,6 +1,6 @@
 package com.example.plainolnotes3.database;
 
-import android.arch.lifecycle.LiveData;
+import androidx.lifecycle.LiveData;
 import android.content.Context;
 
 import com.example.plainolnotes3.utilities.SampleData;
